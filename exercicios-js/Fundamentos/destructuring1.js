@@ -22,5 +22,5 @@ const {endereco: {logradouro, numero, cep}} = pessoa
 console.log(logradouro,numero, cep)
 
 //Irá causar um erro por acessar objeto undefined
-const { conta: {ag, num}} = pessoa
-console.log(ag, num)
+// const { conta: {ag, num}} = pessoa
+// console.log(ag, num)
