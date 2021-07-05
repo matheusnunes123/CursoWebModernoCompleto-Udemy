@@ -25,3 +25,6 @@ console.log(resultado)
 
 // resultado = nums.map(paraDinheiro)
 // console.log(resultado)
+
+
+// Quando precisar transformar um Array em outro, utilize o Map.
